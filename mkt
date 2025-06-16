@@ -1,0 +1,5 @@
+#!/bin/bash
+
+mkt(){
+  mkdir{nmap,content,scripts}
+}
